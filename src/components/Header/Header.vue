@@ -6,21 +6,25 @@
                         <h1 class="text-white px-3 font-bold text-xl">A</h1>
                     </div> <h1 class="py-3 ml-1 text-[#132238] text-3xl font-bold">Abdulaziz</h1>
                 </div>
-                <ul class="flex flex-row items-center justify-around ml-[160px] max-w-[652px] w-full text-lg font-semibold text-[#333333]">
-                    <li>Home</li>
-                    <li>About</li>
-                    <li>Process</li>
-                    <li>Portfolio</li>
-                    <li>Blog</li>
-                    <li>Services</li>
+                <ul class="flex flex-row items-center justify-around hover:cursor-pointer hover:text-[#5a5151]  ml-[160px] max-w-[652px] w-full text-lg font-semibold text-[#333333]">
+                        <routerlink to="/" class="">Home</routerlink>
+                        <routerlink to="/about">About</routerlink>
+                        <routerlink to="/process">Process</routerlink>
+                        <routerlink to="/portfolio">Portfolio</routerlink>
+                        <routerlink to="/blog">Blog</routerlink>
+                        <routerlink to="/services">Services</routerlink>
                     <button class="btn bg-[#A53DFF] text-lg font-bold px-3 py-2 text-white rounded-lg hover:ring-2 hover:outline-none">Contact</button>
                 </ul>
         </div>
-    </header>
+    </header>   
 </template>
 <script>
 export default {
     name:'Header',
+    data() {
+        return {
+        }
+    },
 }
 </script>
 <style>

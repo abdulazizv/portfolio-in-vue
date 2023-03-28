@@ -1,6 +1,6 @@
 <template>
-  <div class="">
-    <Header />
+  <Header />
+  <div class="container mx-auto">
   </div>
 </template>
 <script>

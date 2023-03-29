@@ -2,8 +2,15 @@
   <div
     class="about h-[600px] w-full container mx-auto bg-white shadow-2xl mb-24 flex flex-row justify-between items-center "
   >
-    <div class="photo flex justify-center items-center ml-[50px]">
+    <div class="photo flex justify-center items-center flex-col ml-[50px]">
       <img src="../../assets/Rectangle 30.png" alt="" />
+      <div class="social__media--logos shadow-2xl bg-white -mt-8 flex flex-row gap-4 max-w-[264px] list-none px-7 py-6">
+      <li class=""><a href="https://facebook.com" class=""><img src="../../assets/facebook.svg" alt="fb"></a></li>
+      <li class=" "><a href="https://webstorm.com"><img src="../../assets/worldwebb.svg" alt="worldweb"></a></li>
+      <li class=""><a class="bg-[#AD53DFF]" href="https://instagram.com/abdulaziz"><img src="../../assets/instagram.svg" alt="worldweb"></a></li>
+      <li class=""><a href="https://linkedin.com"><img src="../../assets/linkedin.svg" alt="in"></a></li>
+      <li class=" "><a href="https://behance.com"><img src="../../assets/bee.svg" alt="behance"></a></li>
+    </div>
     </div>
     <div class="about__info w-[60%]">
       <p class="jobprofession text-[#132238] font-semibold text-[38px] mb-4">

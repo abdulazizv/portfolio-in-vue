@@ -1,6 +1,6 @@
 <template>
   <!-- main div -->
-  <div class="wrapper__main flex flex-row mt-[120px] mb-24 max-h-[636px] justify-between">
+  <div class="wrapper__main container mx-auto flex flex-row pt-[120px] pb-[120px] min-h-screen justify-between">
     <!-- left div -->
     <div class="wrapper__main--left  max-w-[662px] w-full flex flex-col">
         <!-- article and buttons  -->

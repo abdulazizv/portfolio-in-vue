@@ -1,9 +1,7 @@
 <template>
   <Header />
-  <div class="container mx-auto main">
     <Main />
-  </div>
-  <Footer />
+    <Footer />
 </template>
 <script>
 import Header from './components/Header/Header.vue';

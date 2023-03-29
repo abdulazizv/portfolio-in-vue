@@ -1,5 +1,5 @@
 <template>
-        <header class="sticky  shadow-2xl  bg-[#FFFFFF]">
+        <header class="fixed w-full  shadow-2xl  bg-[#FFFFFF]">
         <div class="wrapper h-[70px] sticky flex flex-row justify-between container mx-auto">
                 <div class="logo flex items-center">
                     <div class="wrapper__logo bg-[#A53DFF] flex items-center justify-center rounded-3xl px-2 py-3">

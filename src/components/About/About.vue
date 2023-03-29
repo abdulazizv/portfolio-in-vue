@@ -7,7 +7,7 @@
       <div class="social__media--logos shadow-2xl bg-white -mt-8 flex flex-row gap-4 max-w-[264px] list-none px-7 py-6">
       <li class=""><a href="https://facebook.com" class=""><img src="../../assets/facebook.svg" alt="fb"></a></li>
       <li class=" "><a href="https://webstorm.com"><img src="../../assets/worldwebb.svg" alt="worldweb"></a></li>
-      <li class=""><a class="bg-[#AD53DFF]" href="https://instagram.com/abdulaziz"><img src="../../assets/instagram.svg" alt="worldweb"></a></li>
+      <li class=""><a class="bg-[#A53DFF]" href="https://instagram.com/abdulaziz"><img src="../../assets/instagram.svg" alt="worldweb"></a></li>
       <li class=""><a href="https://linkedin.com"><img src="../../assets/linkedin.svg" alt="in"></a></li>
       <li class=" "><a href="https://behance.com"><img src="../../assets/bee.svg" alt="behance"></a></li>
     </div>

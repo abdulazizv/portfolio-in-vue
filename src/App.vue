@@ -1,15 +1,17 @@
 <template>
   <Header />
     <Main />
+    <About />
     <Footer />
 </template>
 <script>
 import Header from './components/Header/Header.vue';
 import Main from './components/Main/Main.vue';
 import Footer from './components/Footer/Footer.vue';
+import About from './components/About/About.vue';
 export default {
   name: "App",
-  components:{Header,Main,Footer}
+  components:{Header,Main,Footer,About}
 };
 </script>
 <style lang="css" scoped>

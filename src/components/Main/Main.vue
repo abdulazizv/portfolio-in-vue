@@ -1,6 +1,6 @@
 <template>
   <!-- main div -->
-  <div class="wrapper__main flex flex-row mt-[120px] ">
+  <div class="wrapper__main flex flex-row mt-[120px] mb-24 max-h-[636px] justify-between">
     <!-- left div -->
     <div class="wrapper__main--left  max-w-[662px] w-full flex flex-col">
         <!-- article and buttons  -->
@@ -15,12 +15,24 @@
         </p>
         <button class="btn bg-[#A53DFF] text-white font-semibold px-3 py-3 mt-[24px] rounded-lg hover:bg-[#bd8de7]">Say Hello!</button>
       </div>
-      <div class="flex flex-row information__owner mt-10">
-        <div class="experience flex flex-col bg-[#EDD8FF]">
-            <h3 class="font-bold px-2 py-3">4,5 M.</h3>
-            <p class="font-normal px-2 py-3">experience</p>
+      <div class="flex flex-row information__owner mt-10 gap-x-1 ">
+        <div class="experience flex flex-col px-6 bg-[#EDD8FF] justify-center items-center">
+            <h3 class="font-bold py-2 text-2xl">4,5 M.</h3>
+            <p class="font-normal">experience</p>
+        </div>
+        <div class="project flex flex-col px-6 bg-[#EDD8FF] justify-center items-center">
+            <h3 class="font-bold py-2 text-2xl">5 P</h3>
+            <p class="font-normal">project completed</p>
+        </div>
+        <div class="client flex flex-col px-6 bg-[#EDD8FF] justify-center items-center">
+            <h3 class="font-bold py-2 text-2xl">Five +</h3>
+            <p class="font-normal">Happy Client</p>
         </div>
       </div>
+    </div>
+
+    <div class="bg-white-400 shadow-xl">
+      <img src="https://picsum.photos/324" alt="">
     </div>
   </div>
 </template>

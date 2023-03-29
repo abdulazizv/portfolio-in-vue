@@ -19,17 +19,17 @@
     </div>
     <div class="about__post w-[315px] bg-white shadow-2xl">
         <img src="../../assets/yellowblackunsplash.png" alt="unsplash1">
-        <h1 class="date__op px-3 py-2">22 oct,2020 / 246 comments</h1>
+        <h1 class="date__op px-3 py-2">22 may,2022 / 46 comments</h1>
         <p class="text-[#333333] text-18px font-semibold px-3 py-2">Lorem ipsum dolor sit consea. Nulla purus arcu</p>
     </div>
     <div class="about__post w-[315px] bg-white shadow-2xl">
         <img src="../../assets/rgbunsplash.png" alt="unsplash1">
-        <h1 class="date__op px-3 py-2">22 oct,2020 / 246 comments</h1>
+        <h1 class="date__op px-3 py-2">30 apr,2023 / 246 comments</h1>
         <p class="text-[#333333] text-18px font-semibold px-3 py-2">Lorem ipsum dolor sit consea. Nulla purus arcu</p>
     </div>
     <div class="about__post w-[315px] bg-white shadow-2xl">
         <img src="../../assets/blueskyunsplash.png" alt="unsplash1">
-        <h1 class="date__op px-3 py-2">22 oct,2020 / 246 comments</h1>
+        <h1 class="date__op px-3 py-2">21 nov,2023 / 521 comments</h1>
         <p class="text-[#333333] text-18px font-semibold px-3 py-2">Lorem ipsum dolor sit consea. Nulla purus arcu</p>
     </div>
     
